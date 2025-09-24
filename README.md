@@ -11,7 +11,7 @@
       </td>
       <td>
         <a href="https://github.com/Khomix/ScenesSwitcher">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Khomix&repo=ScenesSwitcher&theme=transparent&hide_border=true"/>
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Khomix&repo=ScenesSwitcher&theme=transparent&hide_border=true&v=2"/>
         </a>
       </td>
     </tr>
